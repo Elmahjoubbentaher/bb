@@ -1,0 +1,35 @@
+
+.x{
+    position: absolute;
+    opacity: 0.4;   
+}
+.h2{
+    color: rgb(189, 58, 150);
+    font-size: 50px;
+    text-align: center;
+}
+.card{
+ padding: 10px;
+}
+.r{
+    padding-top: 200px;
+    padding-bottom: 233px;
+    padding-right: 50px;
+    background-color: rgb(12, 26, 23);
+}
+.rounded-lg{
+display: inline-block;
+padding: 20px;
+background-color: white;
+}
+.footer{
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    text-align: center;
+    color: rgb(123, 125, 250);
+}
+.o{white-space: pre-wrap;
+padding-bottom:20px }
+.o a{text-decoration: underline;}
+.vv{padding-top: 20px;}

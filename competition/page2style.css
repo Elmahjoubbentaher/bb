@@ -1,0 +1,97 @@
+*{
+    margin: 0%;
+    
+}
+.x{
+  position: absolute;
+  opacity: 0.4; }
+.h{
+    padding-top: 30px;
+    color: bisque;
+  }
+.h a{
+    text-align: left;
+    letter-spacing: 4px;
+    opacity: 0,9;
+    margin: 2px;
+    text-decoration: none;
+    color: rgb(9, 15, 15);
+    padding: 9px;
+    width: 150px;
+    height: 50px;
+    border:none;
+    border:solid 2px black;
+    border-radius: 1px;
+    background: rgba(255, 255, 255,0);
+    }
+    .h a:hover {
+      background-color:black;
+      text-decoration: none;
+      color:rgb(10, 139, 107);
+    } 
+.k{  
+  padding-top: 40px;
+  background-color: black;
+  color: bisque;
+  font-size: 50px;
+  text-align: center;
+  text-shadow: 4px 4px 5px rgb(41, 43, 44);
+}
+.col-sm-4{
+  padding-top: 10px;
+}
+
+.p {font-size: 18px;
+    padding-bottom: 10px;}
+    div.gallery {
+      border: 5px solid #ccc;
+      position: relative;
+      
+    }
+    
+    div.gallery {
+      margin: 5px;
+      border: 1px solid #ccc;
+      float: left;
+      width: 180px;
+      
+    }
+    
+    div.gallery:hover {
+      border: 1px solid #777;
+    }
+    
+    div.gallery img {
+      width: 100%;
+      height: auto;
+    }
+    
+    div.desc {
+      padding: 8px;
+      text-align: center;
+      color: rgb(209, 185, 185);
+    }
+    .d{
+      text-align: center;
+      background-color: black;
+      float:right;
+    }
+    .t{
+      
+      background-color: black;
+      float:left;
+    }
+    .ll{
+      color:yellow;
+    }
+    .footer{
+      background-color: black;
+      padding-top: 20px;
+      padding-bottom: 20px;
+      text-align: center;
+      color: rgb(123, 125, 250);
+    }
+    .o{white-space: pre-wrap;
+    padding-bottom:20px }
+    .o a{text-decoration: underline;}
+    .vv{padding-top: 20px;}
